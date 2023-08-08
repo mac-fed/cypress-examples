@@ -1,0 +1,27 @@
+{
+  "name": "cypress-examples",
+  "version": "1.0.0",
+  "description": "example of e2e tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mac-fed/cypress-examples.git"
+  },
+  "author": "Mac Fed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mac-fed/cypress-examples/issues"
+  },
+  "homepage": "https://github.com/mac-fed/cypress-examples#readme",
+  "dependencies": {
+    "cypress": "12.17.3",
+    "mocha": "10.2.0",
+    "typescript": "5.1.6"
+  },
+  "devDependencies": {
+    "@types/node": "20.4.8"
+  }
+}
